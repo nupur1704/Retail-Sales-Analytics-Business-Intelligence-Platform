@@ -1,0 +1,31 @@
+product_id,product_name,category,base_price,supplier,launch_date,is_active
+PROD001,"Laptop Pro 15""",Electronics,1199.99,Supplier_06,2021-10-17,Yes
+PROD002,Wireless Earbuds,Electronics,89.99,Supplier_03,2021-12-29,No
+PROD003,Smart Watch,Electronics,249.99,Supplier_07,2022-10-04,Yes
+PROD004,"Tablet 10""",Electronics,399.99,Supplier_10,2021-07-02,No
+PROD005,USB-C Hub,Electronics,49.99,Supplier_08,2021-05-30,No
+PROD006,Running Jacket,Clothing,79.99,Supplier_05,2022-01-31,Yes
+PROD007,Slim Jeans,Clothing,59.99,Supplier_03,2021-07-16,Yes
+PROD008,Casual T-Shirt,Clothing,24.99,Supplier_09,2021-12-22,Yes
+PROD009,Winter Coat,Clothing,149.99,Supplier_09,2021-02-23,Yes
+PROD010,Sneakers,Clothing,99.99,Supplier_10,2021-09-26,Yes
+PROD011,Air Fryer 5L,Home & Kitchen,89.99,Supplier_06,2021-03-14,Yes
+PROD012,Coffee Maker,Home & Kitchen,69.99,Supplier_03,2021-07-06,Yes
+PROD013,Blender Pro,Home & Kitchen,59.99,Supplier_05,2021-03-13,Yes
+PROD014,Knife Set,Home & Kitchen,44.99,Supplier_02,2021-09-20,Yes
+PROD015,Cutting Board,Home & Kitchen,19.99,Supplier_01,2022-07-16,Yes
+PROD016,Yoga Mat,Sports,34.99,Supplier_01,2022-10-20,Yes
+PROD017,Dumbbell Set,Sports,79.99,Supplier_05,2021-11-16,Yes
+PROD018,Resistance Bands,Sports,19.99,Supplier_10,2021-02-08,Yes
+PROD019,Water Bottle,Sports,24.99,Supplier_02,2022-04-04,Yes
+PROD020,Jump Rope,Sports,14.99,Supplier_02,2022-01-03,Yes
+PROD021,Data Science Handbook,Books,49.99,Supplier_02,2022-05-03,Yes
+PROD022,Python Crash Course,Books,39.99,Supplier_06,2021-12-19,No
+PROD023,Business Analytics,Books,44.99,Supplier_01,2021-06-16,Yes
+PROD024,SQL Mastery,Books,34.99,Supplier_07,2021-05-13,Yes
+PROD025,ML for Beginners,Books,29.99,Supplier_02,2022-02-15,Yes
+PROD026,Vitamin C Serum,Beauty,34.99,Supplier_05,2021-06-18,No
+PROD027,Moisturizer SPF30,Beauty,29.99,Supplier_07,2021-04-11,No
+PROD028,Lipstick Set,Beauty,39.99,Supplier_03,2021-07-09,Yes
+PROD029,Hair Dryer,Beauty,59.99,Supplier_07,2021-08-30,No
+PROD030,Perfume 50ml,Beauty,69.99,Supplier_05,2021-02-12,No
